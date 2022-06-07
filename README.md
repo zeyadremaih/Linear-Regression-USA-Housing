@@ -1,2 +1,2 @@
-# Linear-Rehression-USA-Housing
+# Linear-Regression-USA-Housing
 Prediction House Prices
